@@ -8,7 +8,7 @@ Es un sistema de información para el control de ingreso y salida de personal a 
 <a href="https://programmerclick.com/article/1594856922/" target="_blank"> <img src="https://www.sngular.com/wp-content/uploads/2021/12/postman-logo-vert-2018.jpg " alt="laravel" width="190" height="100"/> </a>
 
 ## :pushpin: Link de instalacion.
-* :hammer: Instalacion paso a paso de laravel **[Laravel](https://dribbble.com/shots/6496981-Web-Development/attachments/6496981-Web-Development?mode=media)** :round_pushpin:
+* :hammer: Instalacion paso a paso de laravel **[Laravel](https://cynoteck.com/es/blog-post/installing-laravel-8-on-windows-10-xampp/)** :round_pushpin:
 * :hammer: Instalacion paso a paso de postman **[Postman](https://programmerclick.com/article/1594856922/)** :round_pushpin:
 
 ## :memo: Autores. 
